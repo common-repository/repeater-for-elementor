@@ -1,0 +1,157 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Elementor Forms Range Slider\n"
+"POT-Creation-Date: 2023-06-21 21:17+0700\n"
+"PO-Revision-Date: 2023-06-21 21:17+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: fields/range_slider.php:28
+msgid "Range Slider"
+msgstr ""
+
+#: fields/range_slider.php:42
+msgid "Type"
+msgstr ""
+
+#: fields/range_slider.php:49
+msgid ""
+"Choose slider type, could be single - for one handle, or double for two "
+"handles"
+msgstr ""
+
+#: fields/range_slider.php:56
+msgid "Skin"
+msgstr ""
+
+#: fields/range_slider.php:63
+msgid "Choose UI skin to use"
+msgstr ""
+
+#: fields/range_slider.php:70
+msgid "Min"
+msgstr ""
+
+#: fields/range_slider.php:76
+msgid "Set slider minimum value"
+msgstr ""
+
+#: fields/range_slider.php:83
+msgid "Max"
+msgstr ""
+
+#: fields/range_slider.php:89
+msgid "Set slider maximum value"
+msgstr ""
+
+#: fields/range_slider.php:96
+msgid "From"
+msgstr ""
+
+#: fields/range_slider.php:102
+msgid "Set start position for left handle (or for single handle)"
+msgstr ""
+
+#: fields/range_slider.php:109
+msgid "To"
+msgstr ""
+
+#: fields/range_slider.php:115
+msgid "Set start position for right handle"
+msgstr ""
+
+#: fields/range_slider.php:122
+msgid "Step"
+msgstr ""
+
+#: fields/range_slider.php:128
+msgid "Set sliders step. Always > 0. Could be fractional"
+msgstr ""
+
+#: fields/range_slider.php:135
+msgid "To min"
+msgstr ""
+
+#: fields/range_slider.php:141
+msgid "Set minimum limit for right handle"
+msgstr ""
+
+#: fields/range_slider.php:148
+msgid "To max"
+msgstr ""
+
+#: fields/range_slider.php:154
+msgid "Set maximum limit for right handle"
+msgstr ""
+
+#: fields/range_slider.php:161 fields/range_slider.php:174
+msgid "From max"
+msgstr ""
+
+#: fields/range_slider.php:167
+msgid "Set minimum limit for left (or single) handle"
+msgstr ""
+
+#: fields/range_slider.php:180
+msgid "Set maximum limit for left (or single) handle"
+msgstr ""
+
+#: fields/range_slider.php:187
+msgid "Prefix "
+msgstr ""
+
+#: fields/range_slider.php:193
+msgid "Set prefix for values. Will be set up right before the number: **$**100"
+msgstr ""
+
+#: fields/range_slider.php:200
+msgid "Postfix "
+msgstr ""
+
+#: fields/range_slider.php:206
+msgid "Set postfix for values. Will be set up right after the number: 100k"
+msgstr ""
+
+#: fields/range_slider.php:213
+msgid "Custom values"
+msgstr ""
+
+#: fields/range_slider.php:218
+msgid "Format E.g: 1|3|5|6"
+msgstr ""
+
+#: fields/range_slider.php:230
+msgid "The phone format"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Elementor Forms Range Slider"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://codecanyon.net/user/rednumber/portfolio"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Elementor International Telephone Input easy phone number input"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rednumber"
+msgstr ""

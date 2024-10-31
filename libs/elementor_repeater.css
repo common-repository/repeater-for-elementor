@@ -1,0 +1,66 @@
+
+.hidden,.repeater-remove-toolbar .repeater-field-header-acctions-remove{
+    display: none !important;
+}
+.elementor-field-type-repeater>label {
+	display: none !important;
+}
+
+.elementor-editor-active .elementor-field-type-repeater>label, .elementor-editor-active .elementor-field-type-repeater_start>label {
+    display: block !important;
+}
+.container-repeater-field, .elementor-field-repeater-end, .elementor-field-repeater-start,
+.repeater-field-header-title {
+	width: 100%;
+}
+.repeater-field-button-add {
+	background-color: #69727d;
+    border-radius: 103px 103px 103px 103px;
+    padding: 10px 20px 10px 20px;
+    color: #fff;
+    display: inline-block;
+    cursor: pointer;
+}
+.repeater-field-button-add:hover {
+   opacity: 0.8;
+}
+.repeater-field-header {
+    display: flex;
+    width: 100%;
+}
+.repeater-field-header ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.repeater-field-header ul li {
+    display:  inline-block;
+}
+.repeater-field-header-acctions {
+    width: 150px;
+    text-align: right;
+}
+.repeater-field-header-acctions li i{
+    font-size: 20px;
+    margin-left: 1px;
+}
+.repeater-field-header-acctions li i:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+.container-repeater-field {
+    display: flex;
+    flex-wrap: wrap;
+}
+.repeater-field-footer {
+    margin: 15px 0;
+}
+.repeater-content-show {
+    border-bottom: 1px solid #e7e7e7;
+}
+.repeater-field-item {
+    margin-bottom: 15px;
+}
+.elementor-field-repeater-end {
+    padding: 5px 15px;
+}
